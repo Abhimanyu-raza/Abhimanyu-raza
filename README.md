@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu</h1>
 <h3 align="center">
-Third Year Electronics & Communication Engineering Student  
+Pre-Final Year Electronics & Communication Engineering Student  
 <br>
 At Indian Institute of Information Technology, Design and Manufacturing Kancheepuram
 </h3>
@@ -67,10 +67,10 @@ At Indian Institute of Information Technology, Design and Manufacturing Kancheep
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/abhimanyu-302816316/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="rainaraza07@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
