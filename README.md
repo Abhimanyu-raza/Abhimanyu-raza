@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu</h1>
-<h3 align="center">Third Year Electronics & Communication Engineering Student</h3>
+<h3 align="center">
+Third Year Electronics & Communication Engineering Student  
+<br>
+At Indian Institute of Information Technology, Design and Manufacturing Kancheepuram
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,6 +14,7 @@
 ## 👨‍🎓 About Me
 
 - 🎓 Third-year **Electronics & Communication Engineering** student  
+  at **Indian Institute of Information Technology, Design and Manufacturing Kancheepuram**
 - 🔬 Interested in **Electronics, VLSI, Communication Systems & Simulation**
 - 💻 Hands-on experience with **circuit simulation, programming & hardware tools**
 - 📊 Enjoy working on **academic projects and practical implementations**
@@ -72,4 +77,4 @@
 
 ---
 
-⭐ *Always eager to learn, build, and improve my engineering skills.*
+⭐ *Always eager to learn, build, and strengthen my engineering fundamentals.*
